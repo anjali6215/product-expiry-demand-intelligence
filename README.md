@@ -1,4 +1,3 @@
-:::writing{variant="document" id="58241"}
 # Product Expiry and Demand Intelligence System
 
 An intelligent inventory management platform designed to help supermarkets, grocery stores, and pharmacies reduce product wastage through expiry risk prediction, demand forecasting, and smart inventory recommendations.
